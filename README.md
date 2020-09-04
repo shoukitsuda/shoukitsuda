@@ -4,10 +4,7 @@ I'm japanese college student.
 <br>
 I'm learning about blockchain.
 
-<br>
-↓Our BlockChain learning team↓
-<br>
-<img src="https://goblockchain.network/" alt="" width="" height="" border="0" />
+<a href="https://goblockchain.network/">Our BlockChain learning team</a><br>
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shoukitsuda&layout=compact)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukitsuda&layout=compact)

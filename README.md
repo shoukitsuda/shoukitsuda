@@ -11,7 +11,7 @@ I'm learning about blockchain.
 
 
 |  フレームワーク  | 経験年数  |
-| ---- | ---- |
+| ---- | ---- |              
 |Flutter   |2    |
 |Rails     |2      |
 |Nuxt.js   |1      |
@@ -27,4 +27,5 @@ I'm learning about blockchain.
 |  JavaScript    |  1    |
 |  Dart    | 2      |
 | Solidity     |  0.5    |
+
 

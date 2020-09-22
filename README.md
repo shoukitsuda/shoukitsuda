@@ -10,7 +10,7 @@ I'm learning about blockchain.
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukitsuda&layout=compact)
 
 
-|  フレームワーク  | 経験年数  |
+|  flameworks  | years  |
 | ---- | ---- |              
 |Flutter   |2    |
 |Rails     |2      |
@@ -18,7 +18,7 @@ I'm learning about blockchain.
 |Truffle   |1      |
 
 
-|言語      |経験年数     |
+|languages      |years     |
 | ---- | ---- |
 |   C   |   3   |
 |   Java   |  0.5    |

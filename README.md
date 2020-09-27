@@ -29,4 +29,11 @@ I'm learning about blockchain.
 |  Dart    | 2      |
 | Solidity     |  0.5    |
 
+|  years  | award  |result|
+| ---- | ---- | ----        |   
+|2019   |チャレキャラ    |企業賞受賞|
+|2020     |チャレキャラ      |開発中|
+|2020   |Ruby Camp      |COVID-19により中止|
+|2020  |キャンプハッカソン      ||
+
 

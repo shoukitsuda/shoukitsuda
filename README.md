@@ -12,28 +12,28 @@ I'm learning about blockchain.
 
 
 |  flameworks  | years  |
-| ---- | ---- |              
-|Flutter   |2    |
-|Rails     |2      |
-|Nuxt.js   |1      |
-|Truffle   |1      |
+| ----         | ----   |             
+|Flutter       |  2     |
+|Rails         |  2     |
+|Nuxt.js       |  1     |
+|Truffle       |   1    |
 
 
-|languages      |years     |
-| ---- | ---- |
-|   C   |   3   |
-|   Java   |  0.5    |
-| Ruby     |   2   |
-|  HTML/CSS    |  0.5    |
-|  JavaScript    |  1    |
-|  Dart    | 2      |
-| Solidity     |  0.5    |
+|languages      |years  |
+| ----          | ----  |
+|   C           |   3   |
+|   Java        |  0.5  |
+| Ruby          |   2   |
+|  HTML/CSS     |  0.5  |
+|  JavaScript   |  1    |
+|  Dart         | 2     |
+| Solidity      |  0.5  |
 
-|  years  | award  |result|
-| ---- | ---- | ----        |   
-|2019   |チャレキャラ    |企業賞受賞|
-|2020     |チャレキャラ      |開発中|
-|2020   |Ruby Camp      |COVID-19により中止|
-|2020  |キャンプハッカソン      ||
+|  years  | award         |result           |
+| ----    | ----          | ----            |   
+|2019     |チャレキャラ     |企業賞受賞         |
+|2020     |チャレキャラ     |開発中            |
+|2020     |Ruby Camp      |COVID-19により中止| 
+|2020     |キャンプハッカソン|                 |
 
 

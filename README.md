@@ -21,7 +21,7 @@ I'm learning about blockchain.
 |              |        |    |JavaScript|  1    |
 |              |        |    |Solidity  |  0.5  |
 
-|  years  | award         |result           |
+|  years  | award         |results           |
 | ----    | ----          | ----            |   
 |2019     |チャレキャラ     |企業賞受賞         |
 |2020     |チャレキャラ     |開発中            |

@@ -12,7 +12,7 @@ I'm learning about blockchain.
 
 
 |  flameworks  | years  ||languages |years  |
-| ----         | ----   ||----      | ----  |              
+| ----         | ----   |----|----      | ----  |              
 |Flutter       |  2     ||C         |  3    |
 |Rails         |  2     ||Java      |  0.5  |
 |Nuxt.js       |  1     ||Ruby      |  2    |

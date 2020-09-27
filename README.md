@@ -21,11 +21,11 @@ I'm learning about blockchain.
 |              |        |    |JavaScript|  1    |
 |              |        |    |Solidity  |  0.5  |
 
-|  years  | award         |results           |
+|  years  | award         |result           |
 | ----    | ----          | ----            |   
 |2019     |チャレキャラ     |企業賞受賞         |
 |2020     |チャレキャラ     |開発中            |
-|2020     |Ruby Camp      |COVID-19により中止 | 
+|2020     |Ruby Camp      |中止(COVID-19)    | 
 |2020     |キャンプハッカソン|受賞ならず         |
 
 

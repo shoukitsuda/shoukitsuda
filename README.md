@@ -11,23 +11,15 @@ I'm learning about blockchain.
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukitsuda&layout=compact)
 
 
-|  flameworks  | years  |
-| ----         | ----   |             
-|Flutter       |  2     |
-|Rails         |  2     |
-|Nuxt.js       |  1     |
-|Truffle       |   1    |
-
-
-|languages      |years  |
-| ----          | -------  |
-|   C           |   3   |
-|   Java        |  0.5  |
-| Ruby          |   2   |
-|  HTML/CSS     |  0.5  |
-|  JavaScript   |  1    |
-|  Dart         | 2     |
-| Solidity      |  0.5  |
+|  flameworks  | years  |languages |years  |
+| ----         | ----   |----      | ----  |              
+|Flutter       |  2     |C         |  3    |
+|Rails         |  2     |Java      |  0.5  |
+|Nuxt.js       |  1     |Ruby      |  2    |
+|Truffle       |  1     |Dart      |  2    |
+|              |        |HTML/CSS  |  0.5  |
+|              |        |JavaScript|  1    |
+|              |        |Solidity  |  0.5  |
 
 |  years  | award         |result           |
 | ----    | ----          | ----            |   

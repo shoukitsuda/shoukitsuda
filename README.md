@@ -20,7 +20,7 @@ I'm learning about blockchain.
 
 
 |languages      |years  |
-| ----          | ----  |
+| ----          | -------  |
 |   C           |   3   |
 |   Java        |  0.5  |
 | Ruby          |   2   |

@@ -17,7 +17,7 @@ I'm learning about blockchain.
 |Rails         |  2     |    |Java      |  0.5  |
 |Nuxt.js       |  1     |    |Ruby      |  2    |
 |Truffle       |  1     |    |Dart      |  2    |
-|              |        |    |HTML/CSS  |  0.5  |
+|Rocket              |        |    |HTML/CSS  |  0.5  |
 |              |        |    |JavaScript|  1    |
 |              |        |    |Solidity  |  0.5  |
 

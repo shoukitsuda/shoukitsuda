@@ -1,8 +1,7 @@
 <b10>Hello world!</b1>
 <br>
 I'm japanese college student.
-<br>
-I'm learning about blockchain.
+
 
 <a href="https://goblockchain.network/">Our BlockChain learning team</a><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=shoukitsuda)](https://github.com/ryo-ma/github-profile-trophy)

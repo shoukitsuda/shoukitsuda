@@ -3,7 +3,6 @@
 I'm japanese college student.
 
 <a href="https://goblockchain.network/">Our BlockChain learning team</a><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoukitsuda)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukitsuda&layout=compact)
 

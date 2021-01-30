@@ -24,3 +24,11 @@ I'm japanese college student.
 |2020     |Ruby Camp      |中止(COVID-19)    | 
 |2020     |キャンプハッカソン|受賞ならず         |
 
+
+|  years  | InternShip    |
+| ----    | ----          |
+|2019     |Chaintope     |
+|2020     |Sansan    |
+|2020     |MUIT      |
+|2020     |NEC Solution Inovetor      |
+

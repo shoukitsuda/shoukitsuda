@@ -5,17 +5,6 @@ I'm japanese college student.
 <a href="https://goblockchain.network/">gbec</a><br>
 <a href="https://scrapbox.io/bitpickers/">Bitpickers</a><br>
 
-
-|  flameworks  | years  |    |languages |years  |
-| ----         | ----   |--- |----       | ---- |              
-|Flutter       |  2     |    |C         |  3    |
-|Rails         |  2     |    |Java      |  0.5  |
-|Nuxt.js       |  1     |    |Ruby      |  2    |
-|Truffle       |  1     |    |Dart      |  2    |
-|Rocket        |        |    |HTML/CSS  |  0.5  |
-|Cosmos SDK    |        |    |JavaScript|  1    |
-|              |        |    |Solidity  |  0.5  |
-
 |  years  | award         |result           |
 | ----    | ----          | ----            |   
 |2019     |チャレキャラ     |Chaintope賞         |
@@ -30,4 +19,3 @@ I'm japanese college student.
 |2020     |Sansan    |
 |2020     |MUIT      |
 |2020     |NEC Solution Inovetor      |
-

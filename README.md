@@ -3,7 +3,6 @@
 I'm japanese college student.
 
 <a href="https://goblockchain.network/">gbec</a><br>
-<br>
 <a href="https://scrapbox.io/bitpickers/">Bitpickers</a><br>
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shoukitsuda&layout=compact)

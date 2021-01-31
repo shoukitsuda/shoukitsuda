@@ -2,7 +2,7 @@
 <br>
 I'm japanese college student.
 
-<a href="https://goblockchain.network/">gbec</a><br>
+<a href="https://goblockchain.network/">gbec</a> is a Japanese Blockcain Enginering Comunity<br>
 <a href="https://scrapbox.io/bitpickers/">Bitpickers</a><br>
 
 |  years  | award         |result           |

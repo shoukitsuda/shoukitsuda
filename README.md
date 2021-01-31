@@ -3,7 +3,7 @@
 I'm japanese college student.
 
 <a href="https://goblockchain.network/">gbec</a> is a Japanese Blockcain Enginering Comunity<br>
-<a href="https://scrapbox.io/bitpickers/">Bitpickers</a><br>
+<a href="https://scrapbox.io/bitpickers/">Bitpickers</a> is Fukuoka Prefectures Student Blockcain Enginering Comunity　<br>
 
 |  years  | award         |result           |
 | ----    | ----          | ----            |   

@@ -16,6 +16,7 @@ I'm japanese college student.
 |  years  | InternShip    |
 | ----    | ----          |
 |2019     |Chaintope     |
+|2020     |楽天    |
 |2020     |Sansan    |
 |2020     |MUIT      |
 |2020     |NEC Solution Inovetor      |

@@ -7,8 +7,8 @@ I'm japanese college student.
 
 |  years  | award         |result           |
 | ----    | ----          | ----            |   
-|2019     |チャレキャラ     |Chaintope賞         |
-|2020     |チャレキャラ     |NECソリューションイノベータ賞|
+|2019     |チャレキャラ2019 - Qusary     |Chaintope賞         |
+|2020     |チャレキャラ2020 - ReportToken     |NECソリューションイノベータ賞|
 |2020     |Ruby Camp      |中止(COVID-19)    | 
 |2020     |キャンプハッカソン|受賞ならず         |
 

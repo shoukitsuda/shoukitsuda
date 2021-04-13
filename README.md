@@ -11,7 +11,7 @@ I'm japanese college student.
 |2020     |チャレキャラ2020 - ReportToken     |NECソリューションイノベータ賞|
 |2020     |Ruby Camp      |(COVID-19により中止)    | 
 |2020     |キャンプハッカソン|受賞ならず         |
-|2021     |Hack Atom Ru|         |
+|2021     |Hack Atom Ru|セミファイナル出場         |
 
 
 
@@ -22,3 +22,4 @@ I'm japanese college student.
 |2020     |Sansan    |
 |2020     |MUIT      |
 |2020     |NEC Solution Inovetor      |
+|2021     |HashHub      |

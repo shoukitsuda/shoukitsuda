@@ -11,8 +11,8 @@ I'm japanese college student.
 |2020     |チャレキャラ2020 - ReportToken     |NECソリューションイノベータ賞|
 |2020     |Ruby Camp      |(COVID-19により中止)    | 
 |2020     |キャンプハッカソン|受賞ならず         |
-|2021     |Hack Atom Ru|セミファイナル出場         |
-
+|2021     |Hack Atom Ru|セミファイナル進出       |
+|2021     |JBA Blockchain Bootcamp          |ファイナル進出|
 
 
 |  years  | InternShip    |
